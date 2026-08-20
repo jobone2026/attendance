@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಶಿಕ್ಷಕರ ಹಾಜರಾತಿ</string>
+    <string name="app_tagline">ಕರ್ನಾಟಕ ಶಾಲಾ ಶಿಕ್ಷಣ ಇಲಾಖೆ</string>
+    
+    <!-- Auth -->
+    <string name="login_title">ಶಿಕ್ಷಕರ ಲಾಗಿನ್</string>
+    <string name="login_subtitle">ಬಯೋಮೆಟ್ರಿಕ್ ಹಾಜರಾತಿಗಾಗಿ ನಿಮ್ಮ ನೋಂದಾಯಿತ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="phone_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="send_otp">OTP ಕಳುಹಿಸಿ</string>
+    <string name="enter_otp">6-ಅಂಕಿಯ OTP ನಮೂದಿಸಿ</string>
+    <string name="verify_otp">ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮುಂದುವರಿಯಿರಿ</string>
+    <string name="demo_teachers">ಅಥವಾ ಪರೀಕ್ಷಾ ಶಿಕ್ಷಕರ ಖಾತೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ:</string>
+    <string name="resend_otp">OTP ಮರುಕಳುಹಿಸಿ</string>
+    
+    <!-- Navigation -->
+    <string name="nav_attendance">ಹಾಜರಾತಿ ನಮೂದಿಸಿ</string>
+    <string name="nav_history">ಇತಿಹಾಸ</string>
+    <string name="nav_profile">ವಿವರ &amp; ಶಾಲೆ</string>
+    
+    <!-- Face Enrollment -->
+    <string name="enroll_face_title">ಮುಖ ಗುರುತಿಸುವಿಕೆ ನೋಂದಣಿ</string>
+    <string name="enroll_face_desc">ಬಯೋಮೆಟ್ರಿಕ್ ಪ್ರೊಫೈಲ್ ನೋಂದಾಯಿಸಲು ಉತ್ತಮ ಬೆಳಕಿನಲ್ಲಿ 3 ಮುಖದ ಚಿತ್ರಗಳನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ.</string>
+    <string name="sample_step">ಮಾದರಿ %1$d / %2$d</string>
+    <string name="look_straight">ನೇರವಾಗಿ ನೋಡಿ</string>
+    <string name="turn_slightly_left">ಸ್ವಲ್ಪ ಎಡಕ್ಕೆ ತಿರುಗಿ</string>
+    <string name="turn_slightly_right">ಸ್ವಲ್ಪ ಬಲಕ್ಕೆ ತಿರುಗಿ</string>
+    <string name="smile_or_tilt">ಸ್ವಲ್ಪ ನಗು / ತಲೆ ಆಡಿಸಿ</string>
+    <string name="capture_sample">ಮಾದರಿ ಸೆರೆಹಿಡಿಯಿರಿ</string>
+    <string name="enrollment_complete">ಮುಖ ನೋಂದಣಿ ಪೂರ್ಣಗೊಂಡಿದೆ!</string>
+    <string name="enrollment_saved_local_cloud">ಸ್ಥಳೀಯವಾಗಿ ಮತ್ತು ಫೈರ್‌ಸ್ಟೋರ್‌ನಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಗ್ರಹಿಸಲಾಗಿದೆ.</string>
+    
+    <!-- Check in / out -->
+    <string name="check_in">ಚೆಕ್-ಇನ್</string>
+    <string name="check_out">ಚೆಕ್-ಔಟ್</string>
+    <string name="inside_school">ಶಾಲಾ ವ್ಯಾಪ್ತಿಯಲ್ಲಿದೆ</string>
+    <string name="outside_school">ಶಾಲಾ ವ್ಯಾಪ್ತಿಯಿಂದ ಹೊರಗಿದೆ</string>
+    <string name="geofence_distance">ಶಾಲೆಯಿಂದ %1$d ಮೀ (ವ್ಯಾಪ್ತಿ: %2$d ಮೀ)</string>
+    <string name="mock_location_detected">⚠️ ನಕಲಿ ಜಿಪಿಎಸ್ ಸ್ಥಳ ಪತ್ತೆಯಾಗಿದೆ! ಹಾಜರಾತಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.</string>
+    <string name="face_matched">ಮುಖ ದೃಢೀಕರಿಸಲಾಗಿದೆ (%1$d%% ಹೊಂದಾಣಿಕೆ)</string>
+    <string name="face_not_matched">ಮುಖ ಹೊಂದಾಣಿಕೆಯಾಗಿಲ್ಲ</string>
+    <string name="liveness_passed">ಲೈವ್‌ನೆಸ್ ದೃಢೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="liveness_prompt_blink">ದಯವಿಟ್ಟು ಕಣ್ಣು ಮಿಟುಕಿಸಿ</string>
+    <string name="liveness_prompt_turn">ತಲೆಯನ್ನು ಸ್ವಲ್ಪ ತಿರುಗಿಸಿ</string>
+    <string name="liveness_prompt_straight">ಮುಖವನ್ನು ಫ್ರೇಮ್ ಮಧ್ಯದಲ್ಲಿ ಇರಿಸಿ</string>
+    <string name="mark_check_in">ಚೆಕ್-ಇನ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="mark_check_out">ಚೆಕ್-ಔಟ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="already_checked_in">%1$s ರಂದು ಚೆಕ್-ಇನ್ ಆಗಿದೆ</string>
+    <string name="already_checked_out">%1$s ರಂದು ಚೆಕ್-ಔಟ್ ಆಗಿದೆ</string>
+    <string name="attendance_recorded">ಹಾಜರಾತಿ ಯಶಸ್ವಿಯಾಗಿ ದಾಖಲಾಗಿದೆ!</string>
+    <string name="status_on_time">ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ</string>
+    <string name="status_late">ತಡವಾಗಿ</string>
+    <string name="status_absent">ಗೈರುಹಾಜರಿ</string>
+    <string name="sync_status_synced">ಕ್ಲೌಡ್‌ನೊಂದಿಗೆ ಸಿಂಕ್ ಆಗಿದೆ</string>
+    <string name="sync_status_pending">ಆಫ್‌ಲೈನ್ ಸಿಂಕ್ ಬಾಕಿ ಇದೆ</string>
+    <string name="unverified_time_flag">ಆಫ್‌ಲೈನ್ ಸಮಯ (ಸಿಂಕ್ ಆದಾಗ ಮರುಪರಿಶೀಲಿಸಲಾಗುತ್ತದೆ)</string>
+    
+    <!-- History & Report -->
+    <string name="history_title">ಹಾಜರಾತಿ ಇತಿಹಾಸ</string>
+    <string name="last_30_days">ಕಳೆದ 30 ದಿನಗಳ ದಾಖಲೆಗಳು</string>
+    <string name="export_csv">CSV ವರದಿ ಡೌನ್‌ಲೋಡ್</string>
+    <string name="total_present">ಹಾಜರಾದ ದಿನಗಳು</string>
+    <string name="total_late">ತಡವಾದ ದಿನಗಳು</string>
+    <string name="total_on_time">ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ</string>
+    <string name="no_records_found">ಯಾವುದೇ ಹಾಜರಾತಿ ದಾಖಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    
+    <!-- Settings & School -->
+    <string name="school_info">ನಿಯೋಜಿತ ಶಾಲೆಯ ವಿವರಗಳು</string>
+    <string name="school_name">ಶಾಲೆಯ ಹೆಸರು</string>
+    <string name="school_code">ಶಾಲಾ ಐಡಿ</string>
+    <string name="checkin_window">ಚೆಕ್-ಇನ್ ಸಮಯಾವಧಿ</string>
+    <string name="checkout_window">ಚೆಕ್-ಔಟ್ ಸಮಯಾವಧಿ</string>
+    <string name="language_toggle">Language / ಭಾಷೆ</string>
+    <string name="re_enroll_face">ಮುಖವನ್ನು ಮರು-ನೋಂದಾಯಿಸಿ</string>
+    <string name="force_sync">ಕ್ಲೌಡ್ ಸಿಂಕ್ ಮಾಡಿ</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+</resources>

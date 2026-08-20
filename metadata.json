@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Attendance",
+  "description": "Teacher attendance system with facial verification, liveness anti-spoofing, geofencing, and offline sync for Karnataka schools.",
+  "requestFramePermissions": ["CAMERA", "ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

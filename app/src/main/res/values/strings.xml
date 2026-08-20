@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Teacher Attendance</string>
+    <string name="app_tagline">Karnataka School Education Dept</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Teacher Sign In</string>
+    <string name="login_subtitle">Enter your registered mobile number for biometric attendance</string>
+    <string name="phone_number">Mobile Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="enter_otp">Enter 6-digit OTP</string>
+    <string name="verify_otp">Verify &amp; Continue</string>
+    <string name="demo_teachers">Or select test teacher account:</string>
+    <string name="resend_otp">Resend OTP</string>
+    
+    <!-- Navigation -->
+    <string name="nav_attendance">Mark Attendance</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile &amp; School</string>
+    
+    <!-- Face Enrollment -->
+    <string name="enroll_face_title">Biometric Face Enrollment</string>
+    <string name="enroll_face_desc">Please capture 3 face samples in good lighting to register your biometric profile.</string>
+    <string name="sample_step">Sample %1$d of %2$d</string>
+    <string name="look_straight">Look Straight</string>
+    <string name="turn_slightly_left">Turn Slightly Left</string>
+    <string name="turn_slightly_right">Turn Slightly Right</string>
+    <string name="smile_or_tilt">Slight Smile / Nod</string>
+    <string name="capture_sample">Capture Sample</string>
+    <string name="enrollment_complete">Face Enrollment Complete!</string>
+    <string name="enrollment_saved_local_cloud">Embedding stored locally and backed up to Firestore.</string>
+    
+    <!-- Check in / out -->
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="inside_school">Inside School Geofence</string>
+    <string name="outside_school">Outside School Geofence</string>
+    <string name="geofence_distance">%1$d m from school (Radius: %2$d m)</string>
+    <string name="mock_location_detected">⚠️ Mock GPS location detected! Attendance blocked.</string>
+    <string name="face_matched">Face Verified (%1$d%% match)</string>
+    <string name="face_not_matched">Face Not Matched</string>
+    <string name="liveness_passed">Liveness Verified</string>
+    <string name="liveness_prompt_blink">Please Blink Eyes</string>
+    <string name="liveness_prompt_turn">Turn Head Slightly</string>
+    <string name="liveness_prompt_straight">Center Face In Frame</string>
+    <string name="mark_check_in">Confirm Check-In</string>
+    <string name="mark_check_out">Confirm Check-Out</string>
+    <string name="already_checked_in">Checked in at %1$s</string>
+    <string name="already_checked_out">Checked out at %1$s</string>
+    <string name="attendance_recorded">Attendance Marked Successfully!</string>
+    <string name="status_on_time">ON TIME</string>
+    <string name="status_late">LATE</string>
+    <string name="status_absent">ABSENT</string>
+    <string name="sync_status_synced">Synced with Cloud</string>
+    <string name="sync_status_pending">Pending Offline Sync</string>
+    <string name="unverified_time_flag">Offline time fallback (re-validates on cloud sync)</string>
+    
+    <!-- History & Report -->
+    <string name="history_title">Attendance History</string>
+    <string name="last_30_days">Last 30 Days Records</string>
+    <string name="export_csv">Export CSV Report</string>
+    <string name="total_present">Present</string>
+    <string name="total_late">Late</string>
+    <string name="total_on_time">On Time</string>
+    <string name="no_records_found">No attendance records found.</string>
+    
+    <!-- Settings & School -->
+    <string name="school_info">Assigned School Details</string>
+    <string name="school_name">School Name</string>
+    <string name="school_code">School ID</string>
+    <string name="checkin_window">Check-In Window</string>
+    <string name="checkout_window">Check-Out Window</string>
+    <string name="language_toggle">Language / ಭಾಷೆ</string>
+    <string name="re_enroll_face">Re-enroll Biometric Face</string>
+    <string name="force_sync">Force Cloud Sync</string>
+    <string name="logout">Sign Out</string>
+</resources>
